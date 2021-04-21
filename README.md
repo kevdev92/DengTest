@@ -10,6 +10,6 @@ We also compute the result for the stress using the finite element solver COMSOL
 
 COMSOL and Deng data are imported from CSV files
 
-Analytic solutions to concentration and stress are computed using functions 
+Analytic solutions to concentration and stress are computed using functions due to the combersome nature and the occurence of Bessel functions in the solution
 
 Main file is DengAnalytic3.m
