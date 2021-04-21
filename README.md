@@ -1,6 +1,6 @@
 # Deng_Benchmarking_Validation
 
-Code used to verify results in Deng et al. https://doi.org/10.1007/s10008-019-04402-6.
+Code used to verify results in Deng <i>et al.<i/> https://doi.org/10.1007/s10008-019-04402-6.
 
 Code imports data taken from the Deng paper for lithium concentration and stress in a cylindrical anode.
 
